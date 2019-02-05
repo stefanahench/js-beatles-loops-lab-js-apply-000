@@ -1,5 +1,4 @@
 // add solution here
-// add solution here
 function theBeatlesPlay (musicianArray, instArray) {
   var array = []
   for (var i =0; i<musicianArray.length; i++) {
